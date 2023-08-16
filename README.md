@@ -12,7 +12,10 @@ A collection of my personal 3D assets and other content I use, for internet acce
     - Press_Start_2P
     - Shrikhand
 - 3d
-    - versio
+    - PicoWCase
+    - PicoWCaseV2
+    - RPICase
+    - RPICaseV2
 
 
 Contact Information: Decker Ayers ayersdecker@gmail.com
