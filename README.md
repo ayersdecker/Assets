@@ -1,7 +1,18 @@
 # Assets
 
-A collection of my personal 3D assets for internet access. Please attribute if you use in public projects
+A collection of my personal 3D assets and other content I use, for internet access. Please attribute if you use 3D files in public projects
 
-An updated directory will be included in the coming week.
+### Directory
+- fonts
+    - Cabin
+    - Expletus_Sans
+    - Hammersmith_One
+    - Handjet
+    - Lexend
+    - Press_Start_2P
+    - Shrikhand
+- 3d
+    - versio
+
 
 Contact Information: Decker Ayers ayersdecker@gmail.com
